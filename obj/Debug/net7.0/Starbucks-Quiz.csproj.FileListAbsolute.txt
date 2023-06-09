@@ -1,0 +1,15 @@
+F:\C#\Starbucks-Quiz\bin\Debug\net7.0\Starbucks-Quiz.exe
+F:\C#\Starbucks-Quiz\bin\Debug\net7.0\Starbucks-Quiz.deps.json
+F:\C#\Starbucks-Quiz\bin\Debug\net7.0\Starbucks-Quiz.runtimeconfig.json
+F:\C#\Starbucks-Quiz\bin\Debug\net7.0\Starbucks-Quiz.dll
+F:\C#\Starbucks-Quiz\bin\Debug\net7.0\Starbucks-Quiz.pdb
+F:\C#\Starbucks-Quiz\obj\Debug\net7.0\Starbucks-Quiz.csproj.AssemblyReference.cache
+F:\C#\Starbucks-Quiz\obj\Debug\net7.0\Starbucks-Quiz.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Starbucks-Quiz\obj\Debug\net7.0\Starbucks-Quiz.AssemblyInfoInputs.cache
+F:\C#\Starbucks-Quiz\obj\Debug\net7.0\Starbucks-Quiz.AssemblyInfo.cs
+F:\C#\Starbucks-Quiz\obj\Debug\net7.0\Starbucks-Quiz.csproj.CoreCompileInputs.cache
+F:\C#\Starbucks-Quiz\obj\Debug\net7.0\Starbucks-Quiz.dll
+F:\C#\Starbucks-Quiz\obj\Debug\net7.0\refint\Starbucks-Quiz.dll
+F:\C#\Starbucks-Quiz\obj\Debug\net7.0\Starbucks-Quiz.pdb
+F:\C#\Starbucks-Quiz\obj\Debug\net7.0\Starbucks-Quiz.genruntimeconfig.cache
+F:\C#\Starbucks-Quiz\obj\Debug\net7.0\ref\Starbucks-Quiz.dll
